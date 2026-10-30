@@ -133,6 +133,7 @@ a {
     isolation: isolate;
 
     padding: 125px 20px 55px;
+    background: transparent;
 
    
 }
